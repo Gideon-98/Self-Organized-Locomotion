@@ -1,0 +1,6 @@
+stick_insect_sim_pkg
+/home/gian/catkin_ws/devel/.private/stick_insect_sim_pkg/cmake.lock /home/gian/catkin_ws/devel/./cmake.lock
+/home/gian/catkin_ws/devel/.private/stick_insect_sim_pkg/share/stick_insect_sim_pkg/cmake/stick_insect_sim_pkgConfig-version.cmake /home/gian/catkin_ws/devel/share/stick_insect_sim_pkg/cmake/stick_insect_sim_pkgConfig-version.cmake
+/home/gian/catkin_ws/devel/.private/stick_insect_sim_pkg/share/stick_insect_sim_pkg/cmake/stick_insect_sim_pkgConfig.cmake /home/gian/catkin_ws/devel/share/stick_insect_sim_pkg/cmake/stick_insect_sim_pkgConfig.cmake
+/home/gian/catkin_ws/devel/.private/stick_insect_sim_pkg/lib/stick_insect_sim_pkg/stick_insect_sim_controller /home/gian/catkin_ws/devel/lib/stick_insect_sim_pkg/stick_insect_sim_controller
+/home/gian/catkin_ws/devel/.private/stick_insect_sim_pkg/lib/pkgconfig/stick_insect_sim_pkg.pc /home/gian/catkin_ws/devel/lib/pkgconfig/stick_insect_sim_pkg.pc

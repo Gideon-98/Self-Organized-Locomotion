@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gian/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/gian/catkin_ws/src/db_alpha_interface/db_alpha_controllers/include/**",
+        "/home/gian/catkin_ws/src/db_alpha_interface/db_alpha_listener/include/**",
+        "/home/gian/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/gian/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/gian/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/gian/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/gian/workspace/medaextra/catkin_ws/src/gamma_pkg/include/**",
+        "/home/gian/catkin_ws/src/imu_tools/imu_complementary_filter/include/**",
+        "/home/gian/catkin_ws/src/imu_converter/include/**",
+        "/home/gian/catkin_ws/src/imu_tools/imu_filter_madgwick/include/**",
+        "/home/gian/catkin_ws/src/joystick_teleop/include/**",
+        "/home/gian/workspace/medaextra/catkin_ws/src/medaextra_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
